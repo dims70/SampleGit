@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dimas\\Desktop\\Новая папка\\SampleGit\\SampleGit.csproj",
+      "projectUniqueName": "C:\\Users\\Dimas\\Desktop\\Sample\\SampleGit\\SampleGit.csproj",
       "projectName": "SampleGit",
-      "projectPath": "C:\\Users\\Dimas\\Desktop\\Новая папка\\SampleGit\\SampleGit.csproj",
+      "projectPath": "C:\\Users\\Dimas\\Desktop\\Sample\\SampleGit\\SampleGit.csproj",
       "packagesPath": "C:\\Users\\Dimas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dimas\\Desktop\\Новая папка\\SampleGit\\obj\\",
+      "outputPath": "C:\\Users\\Dimas\\Desktop\\Sample\\SampleGit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dimas\\AppData\\Roaming\\NuGet\\NuGet.Config",

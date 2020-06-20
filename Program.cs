@@ -6,7 +6,8 @@ namespace SampleGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr = {1,2,3};
+	    Console.Write(string.Join(" ", arr));
         }
     }
 }
